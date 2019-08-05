@@ -1,7 +1,7 @@
 # *--conding:utf-8--*
-API_TOKEN = '938619629:AAF3aR9AQniQzHJSb3PJChocfBnlKMLQiqs'
+API_TOKEN = 'you api_token'
 
-
+# 三方api接口
 URL = {
     # 笑话
     'joke_url': 'http://www.mxnzp.com/api/jokes/list/random',
